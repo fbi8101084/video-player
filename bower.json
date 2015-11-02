@@ -1,0 +1,19 @@
+{
+  "name": "video-player",
+  "version": "0.0.0",
+  "homepage": "https://github.com/fbi8101084/video-player",
+  "authors": [
+    "nobita"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "https://github.com/yuin-fork-center/jquery.git#2.1.4"
+  }
+}

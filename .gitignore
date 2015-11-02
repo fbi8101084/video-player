@@ -1,0 +1,5 @@
+*.DS_Store
+*.swp
+.idea/
+video/*.mp4
+bower_components
